@@ -1,4 +1,4 @@
-package ro.ase.alexandra;
+
 
 public class Student {
 	private String name;
